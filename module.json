@@ -3,7 +3,7 @@
     "title": "TNG Skin for Star Trek Adventures",
     "description": "An imporoved skin for TNG-era games",
     "author": "NerdEyeIndustries",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "esmodules": ["scripts/sta-skin-tng.js"],
@@ -15,5 +15,5 @@
     },
     "url": "https://github.com/NerdEyeIndustries/sta-skin-tng",
     "manifest": "https://github.com/NerdEyeIndustries/sta-skin-tng/main/module.json",
-    "download": "https://github.com/NerdEyeIndustries/sta-skin-tng/releases/download/v0.2.3/sta-skin-tng-v0.1.1.zip"
+    "download": "https://github.com/NerdEyeIndustries/sta-skin-tng/releases/download/v0.2.3/sta-skin-tng-v0.1.2.zip"
   }
